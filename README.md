@@ -7,6 +7,7 @@
 | [0705-design-hashset](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/1472-design-browser-history) |
+| [1600-throne-inheritance](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -21,6 +22,7 @@
 | ------- |
 | [0705-design-hashset](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/1396-design-underground-system) |
+| [1600-throne-inheritance](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/1600-throne-inheritance) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/0705-design-hashset) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/Phanisai28248/problem-solving-testing-unit-3-week-7-/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
